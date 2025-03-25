@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<svg width="170" height="50" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="clip0_1026_18">
+   <rect fill="white" height="50" id="svg_1" width="170"/>
+  </clipPath>
+ </defs>
+ <g class="layer">
+  <title>background</title>
+  <rect fill="none" height="402" id="canvas_background" width="582" x="-1" y="-1"/>
+ </g>
+ <g class="layer">
+  <title>Layer 1</title>
+  <g clip-path="url(#clip0_1026_18)" id="svg_2">
+   <path d="m14.63,36.71c4.28,-4.07 4.32,-10.93 4.32,-10.93c0,0 -6.91,-0.26 -11.19,3.81c-4.29,4.07 -4.32,10.92 -4.32,10.92c0,0 6.9,0.27 11.19,-3.8z" fill="#E55733" id="svg_3"/>
+   <path d="m23.27,36.71c-4.29,-4.07 -4.32,-10.93 -4.32,-10.93c0,0 6.91,-0.26 11.19,3.81c4.28,4.07 4.32,10.92 4.32,10.92c0,0 -6.91,0.27 -11.19,-3.8z" fill="#E55733" id="svg_4"/>
+   <path d="m14.63,14.87c4.28,4.06 4.32,10.92 4.32,10.92c0,0 -6.91,0.26 -11.19,-3.81c-4.29,-4.06 -4.32,-10.92 -4.32,-10.92c0,0 6.9,-0.26 11.19,3.81z" fill="#E55733" id="svg_5"/>
+   <path d="m23.27,14.87c-4.29,4.06 -4.32,10.92 -4.32,10.92c0,0 6.91,0.26 11.19,-3.81c4.28,-4.06 4.32,-10.92 4.32,-10.92c0,0 -6.91,-0.26 -11.19,3.81z" fill="#E55733" id="svg_6"/>
+  </g>
+  <text fill="#000000" font-family="&#x27;Courier New&#x27;, Courier, monospace" font-size="13" font-style="normal" font-weight="bold" id="svg_14" stroke-width="0" text-anchor="start" transform="matrix(1 0 0 1 0 0) matrix(0.958526 0 0 1 7.29373 0)" x="38.56" xml:space="preserve" y="21.23">РЕЙТИНГ ЛУЧШИХ</text>
+  <text fill="#000000" font-family="&#x27;Courier New&#x27;, Courier, monospace" font-size="13" font-weight="bold" id="svg_15" stroke-width="0" text-anchor="start" x="63" xml:space="preserve" y="35.23">ПРИНТЕРОВ</text>
+ </g>
+</svg>
