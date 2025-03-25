@@ -1,0 +1,23 @@
+/*
+Theme Name: Hypnosis 2 Дочерняя тема
+Theme URI: https://goodwinpress.ru/wp-tema-hypnosis-2
+Author: GoodwinPress
+Author URI: https://goodwinpress.ru/
+Description: Используем дочернюю тему лишь в тех случаях, когда собрались менять стили, разметку или функции темы. Просто так ее ставить не требуется.
+Text Domain: hypnosis-2
+Domain Path: /languages
+Template: hypnosis-2
+*/
+
+/* Размещайте ваши стили под этой строкой. */ 
+.single-entry::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to bottom, #ffffff 5%, rgba(255, 255, 255, 1) 10%);
+    transform: translateY(-2.5rem);
+}
